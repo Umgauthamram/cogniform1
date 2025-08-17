@@ -1,4 +1,4 @@
-📄 TechXchange_Hackathon_SurveyFatigueFighter
+📄 TechXchange_Hackathon_CogniForm
 
 Details of the work done by Team Normies for the IBM TechXchange Pre-Conference WatsonX Hackathon under the path:
 “Build a generative AI application for a use case supporting productivity with IBM watsonx.ai, featuring IBM Granite.”
